@@ -1,0 +1,2 @@
+Домашнее задание к лекции «ArrayBuffer». Math  
+[![Build status](https://ci.appveyor.com/api/projects/status/fwvtlwp4pns3gu32?svg=true)](https://ci.appveyor.com/project/EkaterinaAkhmetzyanova/ajs-hw-3-1-arraybuffer-match)
